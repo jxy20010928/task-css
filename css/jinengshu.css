@@ -288,15 +288,13 @@ body{
 	line-height: 18rem;
 	text-align: -webkit-center;
 }
-
+.logo img{
+	height: 60px;
+}
 .clear {
 	clear: both
 }
-a.ex1:hover,a.ex1:active {font-size:300%;}
-a.ex2:hover,a.ex2:active {font-size:300%;}
-a.ex3:hover,a.ex3:active {font-size:300%;}
-a.ex4:hover,a.ex4:active {font-size:300%;}
-a.ex5:hover,a.ex5:active {font-size:300%;}
+
 .seven{
     height: 110px;
     width: 100%;

@@ -134,13 +134,18 @@ body{
 	margin-top: 18px;
 	color: #f9a372;
 }
-.seven p{
+.seven a{
 	color: #29B078;
 }
 .seven-2{
 	position: relative;
     top: -85px;
     left: 91px;
+    
+}
+.seven-2 a:hover{
+	background: orange;
+	color: #FFFFFF;
 }
 .eight{
     background: #ffffff;

@@ -95,58 +95,30 @@ body{
     font-size: 17px;
 }
 .two{
-	height: 40px;
-   
+height: 40px;
+   line-height: 40px;
+}
+.two a{
+	margin-left: 20px;
+	color: #000000;
 }
 .botton-border{
 	border-bottom: 1px solid #E2E2E2;
 }
-.two-1{
+.two-1,.two-2{
 	height: 23px;
-    width: 37px;
+    width: 70px;
 	color: #999999;
-    margin-top: 15px;
+   
+    text-align: center;
+    float: left;
 }
-.two-2{
-	height: 22px;
-    width: 32px;
-    margin-left: 81px;
-    margin-top: -20px;
-    background: #29B078;
-}
-.two-2 p{
+
+.two a:hover{
+	background: #29B078;
 	color: #FFFFFF;
 }
-.two-3{
-	height: 23px;
-    width: 64px;
-    margin-left: 168px;
-    margin-top: -24px;
-}
-.two-4{
-	height: 23px;
-    width: 64px;
-    margin-left: 278px;
-    margin-top: -24px;
-}
-.two-5{
-	height: 23px;
-    width: 64px;
-    margin-left: 390px;
-    margin-top: -24px;
-}
-.two-6{
-	height: 23px;
-    width: 64px;
-    margin-left: 504px;
-    margin-top: -24px;
-}
-.two-7{
-	height: 23px;
-    width: 64px;
-    margin-left: 614px;
-    margin-top: -24px;
-}
+
 .three{
 	height: 25px;
     width: 1200px;
